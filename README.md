@@ -1,6 +1,6 @@
 # TDS Data Analyst Agent
 
-A powerful web-based data analysis agent that can scrape, analyze, and visualize data from various sources including Wikipedia tables and cloud databases.
+A powerful web-based data analysis agent that can scrape, analyze, and visualize data from various sources including Wikipedia tables and cloud databases
 
 ## 🚀 Features
 
